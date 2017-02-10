@@ -1,5 +1,5 @@
-﻿<Properties StartupConfiguration="{253BAECA-B768-4646-BE75-58CA319121EC}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorldMVC/App_Start/RouteConfig.cs">
+﻿<Properties StartupConfiguration="{253BAECA-B768-4646-BE75-58CA319121EC}|" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorldMVC/Controllers/HomeController.cs">
     <Files>
       <File FileName="HelloWorldMVC/App_Start/RouteConfig.cs" Line="20" Column="1" />
       <File FileName="HelloWorldMVC/Models/User.cs" Line="11" Column="1" />
@@ -10,6 +10,9 @@
       <File FileName="HelloWorldMVC/Views/Home/First.cshtml" Line="1" Column="1" />
       <File FileName="HelloWorldMVC/Views/Shared/First.cshtml" Line="1" Column="1" />
       <File FileName="HelloWorldMVC/Controllers/ContactController.cs" Line="9" Column="41" />
+      <File FileName="HelloWorldMVC/packages.config" Line="10" Column="100" />
+      <File FileName="HelloWorldMVC/Web.config" Line="1" Column="1" />
+      <File FileName="HelloWorldMVC/Controllers/HomeController.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
