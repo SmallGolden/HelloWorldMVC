@@ -1,0 +1,15 @@
+/Users/orange/Dev/VisualStudio/HelloWorldMVC/HelloWorldMVC/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/orange/Dev/VisualStudio/HelloWorldMVC/HelloWorldMVC/bin/HelloWorldMVC.dll.mdb
+/Users/orange/Dev/VisualStudio/HelloWorldMVC/HelloWorldMVC/bin/HelloWorldMVC.dll
+/Users/orange/Dev/VisualStudio/HelloWorldMVC/HelloWorldMVC/obj/Debug/HelloWorldMVC.dll
+/Users/orange/Dev/VisualStudio/HelloWorldMVC/HelloWorldMVC/obj/Debug/HelloWorldMVC.dll.mdb
+/Users/orange/Dev/VisualStudio/HelloWorldMVC/HelloWorldMVC/bin/System.Web.Razor.dll
+/Users/orange/Dev/VisualStudio/HelloWorldMVC/HelloWorldMVC/bin/Microsoft.Web.Infrastructure.dll
+/Users/orange/Dev/VisualStudio/HelloWorldMVC/HelloWorldMVC/bin/System.Web.Helpers.dll
+/Users/orange/Dev/VisualStudio/HelloWorldMVC/HelloWorldMVC/bin/System.Web.WebPages.Deployment.dll
+/Users/orange/Dev/VisualStudio/HelloWorldMVC/HelloWorldMVC/bin/System.Web.WebPages.dll
+/Users/orange/Dev/VisualStudio/HelloWorldMVC/HelloWorldMVC/bin/System.Web.WebPages.Razor.dll
+/Users/orange/Dev/VisualStudio/HelloWorldMVC/HelloWorldMVC/bin/System.Web.Mvc.dll
+/Users/orange/Dev/VisualStudio/HelloWorldMVC/HelloWorldMVC/bin/EntityFramework.dll
+/Users/orange/Dev/VisualStudio/HelloWorldMVC/HelloWorldMVC/bin/EntityFramework.SqlServer.dll
+/Users/orange/Dev/VisualStudio/HelloWorldMVC/HelloWorldMVC/bin/Newtonsoft.Json.dll

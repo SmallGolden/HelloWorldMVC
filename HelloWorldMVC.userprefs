@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{253BAECA-B768-4646-BE75-58CA319121EC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorldMVC/App_Start/RouteConfig.cs">
+    <Files>
+      <File FileName="HelloWorldMVC/App_Start/RouteConfig.cs" Line="20" Column="1" />
+      <File FileName="HelloWorldMVC/Models/User.cs" Line="11" Column="1" />
+      <File FileName="HelloWorldMVC/Views/Shared/Error.cshtml" Line="1" Column="1" />
+      <File FileName="HelloWorldMVC/Views/_ViewStart.cshtml" Line="2" Column="11" />
+      <File FileName="HelloWorldMVC/Views/Web.config" Line="12" Column="16" />
+      <File FileName="HelloWorldMVC/Global.asax" Line="1" Column="1" />
+      <File FileName="HelloWorldMVC/Views/Home/First.cshtml" Line="1" Column="1" />
+      <File FileName="HelloWorldMVC/Views/Shared/First.cshtml" Line="1" Column="1" />
+      <File FileName="HelloWorldMVC/Controllers/ContactController.cs" Line="9" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HelloWorldMVC PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

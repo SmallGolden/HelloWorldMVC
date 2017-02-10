@@ -1,0 +1,27 @@
+﻿<h2>Welcome to ASP.NET MVC @ViewData["Version"] on @ViewData["Runtime"]!</h2>
+
+@if(ViewBag.Users==null)
+{
+<p>暂无资料。</p>
+}
+else
+{
+<table border="1" align="center">
+<thread>
+	<tr>
+	<th>编号</th>
+	<th>姓名</th>
+	<th>Email</th>
+	</tr>
+	</thread>
+	<tbody>
+	@foreach(var item in ViewBag.Users)
+	{
+		<tr>
+		<td style="color:red">@item.Id</td>
+		<td>@item.Name</td>
+		<td>@item.Email<button>First</button></td>
+		</tr>}
+	</tbody>
+</table>
+}
