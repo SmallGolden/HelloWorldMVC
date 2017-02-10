@@ -46,6 +46,7 @@ namespace HelloWorldMVC.Controllers
 				users.Add(user);
 			}
 
+			
 			ViewBag.Users = users;
 			ViewBag.Title = "Test";
 			return View();
